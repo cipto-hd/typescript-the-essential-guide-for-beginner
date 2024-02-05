@@ -1,0 +1,11 @@
+[book]
+authors = ["Cipto Hadi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Typescript: The Essential Guide for Beginner"
+
+[output.html]
+
+[output.html.print]
+enable = false
